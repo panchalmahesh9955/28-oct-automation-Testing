@@ -14,6 +14,7 @@ public class father {
 	public void money()
 	{
 		System.out.println("money" );
+		System.out.println("money" );
 		}
 	}
 
